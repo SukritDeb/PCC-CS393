@@ -1,5 +1,5 @@
-s=input("Enter a string: ")
-l=s.split()
-for i in l:
-    if("a" in i):
-        print(i)
+def makelist(a,b):
+    arr=[]
+    for i in range(a,b+1):
+        arr.append(i)
+    return arr
