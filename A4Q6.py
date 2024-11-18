@@ -6,5 +6,4 @@ for i in l:
 for i in l:
     if(l.count(i)>1):
         result.append(i)
-
 print(result)
