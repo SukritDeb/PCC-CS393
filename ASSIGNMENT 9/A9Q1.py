@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-f=open("A9Q1_file.txt","r")
+f=open("ASSIGNMENT 9/files/A9Q1_file.txt","r")
 text=f.read()
 name=[]
 bill=[]

@@ -1,4 +1,4 @@
-f=open("A9Q3_file.txt","r")
+f=open("ASSIGNMENT 9/files/A9Q3_file.txt","r")
 text=f.read()
 space=0
 tab=0
