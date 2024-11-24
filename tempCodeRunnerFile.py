@@ -1,2 +1,0 @@
-
-    j=linelist[i]
